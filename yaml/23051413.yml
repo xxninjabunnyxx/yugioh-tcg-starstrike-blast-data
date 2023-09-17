@@ -1,0 +1,31 @@
+---
+id: 23051413
+name: Naturia Stag Beetle
+type: Effect Monster
+frameType: effect
+desc: Once per turn, during the Battle Step or Damage Step of this card's attack,
+  when your opponent activates a card or effect, you can select 1 "Naturia" monster
+  in your Graveyard. Special Summon that monster from the Graveyard.
+atk: 2200
+def: 1500
+level: 6
+race: Insect
+attribute: EARTH
+archetype: Naturia
+card_sets:
+- set_name: Starstrike Blast
+  set_code: STBL-EN032
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.17'
+card_images:
+- id: 23051413
+  image_url: https://images.ygoprodeck.com/images/cards/23051413.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/23051413.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/23051413.jpg
+card_prices:
+- cardmarket_price: '0.23'
+  tcgplayer_price: '0.19'
+  ebay_price: '1.47'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.25'
